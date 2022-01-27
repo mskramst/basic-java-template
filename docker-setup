@@ -1,0 +1,1 @@
+docker run --name java-app -it -v $(pwd):/code openjdk /bin/bash
