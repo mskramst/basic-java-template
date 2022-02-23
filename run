@@ -1,2 +1,2 @@
 javac -d ./build *.java
-java -cp ./build Main
+java -cp ./build RandomStrings
